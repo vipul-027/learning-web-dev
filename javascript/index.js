@@ -15,15 +15,9 @@ console.log(number1+ number2);
  */
 // 4. data types in javascript
 // numbers
-var num1=4556;
-var num2= 56.884;
+var num1=455;
+var num2=45.65;
 // string
- var str1="this is a string";
- var str2='this is also a string';
- // objects
-  var marks= {
-      harrypotter:43,
-      sanjay:99,
-      vipul:99.999,
-  }
-  console.log(marks)
+var str1="this is strng";
+var str2='this is also a string';
+// Objects
